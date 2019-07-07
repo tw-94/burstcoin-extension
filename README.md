@@ -14,3 +14,6 @@ command console: npm i web-ext
 2. execute command: web-ext run
 ```
 
+```
+Donate to support development Burst-2QQ5-6477-ZFK5-BQCH4
+```
