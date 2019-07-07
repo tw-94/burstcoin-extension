@@ -1,8 +1,8 @@
 # burstcoin-extension
-Browser Add-on for Burstcoin
+<br /> Browser Add-on for Burstcoin written by BurstNeon | T.W http://burstneon.com/
 
 ![](https://i.ibb.co/bL4wNx1/12345.jpg) 
-<br /> Browser Add-on for Burstcoin written by BurstNeon | T.W http://burstneon.com/
+
 
 **Installation Guide**
 
