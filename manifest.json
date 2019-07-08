@@ -13,7 +13,7 @@
     "48": "icons/cookie.png",
     "96": "icons/cookie@2x.png"
   },
-  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/list-cookies",
+  "homepage_url": "https://github.com/BurstNeon/burstcoin-extension",
   "manifest_version": 2,
   "name": "Burstcoin Extension",
   "version": "1.0",
