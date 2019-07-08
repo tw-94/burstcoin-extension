@@ -1,6 +1,7 @@
 # burstcoin-extension
 <br /> Browser Add-on for Burstcoin written by BurstNeon | T.W http://burstneon.com/
 
+Released: https://addons.mozilla.org/de/firefox/addon/burstcoin-extension/
 ![](https://i.ibb.co/bL4wNx1/12345.jpg) 
 
 
